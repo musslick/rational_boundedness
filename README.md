@@ -1,4 +1,4 @@
-# Supplemental Materials for "On the Rational Boundedness of Control-Dependent vs. Automatic Processing: Shared Versus Separated Representations”
+# Supplemental Materials for "On the Rational Boundedness of Cognitive Control: Shared Versus Separated Representations”
 
 ## Simulations
 
